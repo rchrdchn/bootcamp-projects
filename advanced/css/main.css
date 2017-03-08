@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+}
+
+html, body {
+	margin: 0;
+}
+
+/* MAIN NAVIGATION PAGE */
+
+#main-nav {
+	background-color: #B3E5FC;
+}
+
+.fa-heart {
+	padding-left: 50px;
+}
+
+.main-list {
+	display: block;
+	padding: 0;
+	margin-right: 250px;
+	margin-left: 150px;
+	font-family: "Georgia", serif;
+	font-weight: bold;
+	color: #424242;
+}
+
+.nav-left {
+	display: inline-block;
+	padding: 30px 10px;
+	font-size: 24px;
+	text-transform: uppercase;
+}
+
+.nav-right {
+	display: inline-block;
+	float: right;
+	padding: 35px 20px;
+	font-size: 20px;
+}
+
+.main-text {
+	display: inline-block;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: "Georgia", serif;
+	letter-spacing: 1px;
+}
+
+.main-image {
+	display: inline-block;
+	
+}
